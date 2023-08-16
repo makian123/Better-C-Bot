@@ -49,5 +49,5 @@ modmail_channel = 1141379602724442223
 
 closeable = {
   help_channel : 'Done', # help
-  1141088476406755398 : 'Done'  # code-review
+  1055500115432972318 : 'Done'  # code-review
 }
