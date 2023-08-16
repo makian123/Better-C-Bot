@@ -43,9 +43,11 @@ ping_role = 873897990958481448
 # Role that can reactivate and close help channels without having to own the channel
 helpful_role = 983185446047719504
 
-help_channel = 1045182836107395124
+help_channel = 1141088385700732968
+
+modmail_channel = 1141379602724442223
 
 closeable = {
   help_channel : 'Done', # help
-  1055500115432972318 : 'Done'  # code-review
+  1141088476406755398 : 'Done'  # code-review
 }
